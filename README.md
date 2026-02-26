@@ -1,2 +1,34 @@
-# my-first-python-game
-My first AI-generated Python game
+# 🎮 我的第一個 Python 小遊戲
+
+哈囉！我是初學者 👋  
+這是我第一次使用 AI 協助完成的專案。
+
+---
+
+## 🕹 遊戲介紹
+
+這是一個猜數字遊戲。  
+電腦會隨機產生 1 到 100 的數字。  
+玩家需要一直猜，直到猜對為止。
+
+---
+
+## 🚀 如何執行
+
+在終端機輸入：
+
+python game.py
+
+---
+
+## 🧠 我學到了什麼
+
+- 如何建立 GitHub 帳號
+- 如何建立 Repository
+- 如何使用 VS Code
+- 如何寫 Python 程式
+- 如何寫 README
+
+---
+
+製作人：你的名字
